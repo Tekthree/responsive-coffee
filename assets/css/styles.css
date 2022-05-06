@@ -217,6 +217,30 @@ button {
 
 /* Change background header */
 
+.card__container{
+  background-color: #000;
+  padding: 3rem;
+  margin-bottom: 1.5rem;
+  border-radius: 1rem;
+}
+
+.card__h1{
+  color: white;
+  font-size: 3rem;
+}
+
+.card__h3{
+  color: rgb(109, 109, 109);
+}
+
+.hidden{
+  display: none;
+}
+
+.card__img{
+  height: 300px;
+  width: 550px;
+}
 /* Active link */
 
 /*=============== HOME ===============*/
